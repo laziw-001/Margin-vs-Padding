@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(10, 80, 76);
+}
+h1{
+    background-color: rgb(48, 25, 20);
+    color: white;
+    height: 40px;
+    width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+div{
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px 20px;
+    width: 550px;
+    height: 350px;
+    border: 7px solid red;
+}
+p{
+    background-color: aquamarine;
+    font-weight: 700;
+    padding: 30px;
+}
